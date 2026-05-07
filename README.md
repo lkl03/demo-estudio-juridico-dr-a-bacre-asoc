@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dr-a-bacre-asoc
-Demo web para Estudio Jurídico Dr. A. Bacre &amp; Asoc. — diseñada por eterlab.
+# Estudio Jurídico Dr. A. Bacre & Asoc.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
